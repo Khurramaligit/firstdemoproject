@@ -1,1 +1,3 @@
 This is my first GIT file for GIT Hub.
+
+New second line is added in GIT text file
