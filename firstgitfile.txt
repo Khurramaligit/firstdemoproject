@@ -3,5 +3,3 @@ This is my first GIT file for GIT Hub.
 New second line is added in GIT text file
 
 Third new file added in GIT text file. This line is added from GIT hub editor
-
-New Changed in Git first.txt
