@@ -5,3 +5,5 @@ This is second text file of GIT locally
 
 A new line is added in second txt file from remote repository (GIT Hub)
 >>>>>>> origin/master
+
+This is third line added in second file
